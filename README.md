@@ -1,4 +1,4 @@
-## Hi there meu nome é Caio 👋
+## Hi there meu nome é Caio Jaqueri 👋
 
 - 🔭 Atualmente estou em busca de estágio
 - 🌱 Estudando HTML, CSS, PHP e Python
