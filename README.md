@@ -1,6 +1,6 @@
-## Hi there meu nome é Caio Jaqueri 👋
+## Olá, meu nome é Caio Jaqueri 👋
 
 - 🔭 Atualmente estou em busca de estágio
 - 🌱 Estudando HTML, CSS, PHP e Python
-- 📫 How to reach me: caiojaqueri.contato@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 Como chegar até mim: caiojaqueri.contato@gmail.com
+- 😄 Pronomes: ele/dele
