@@ -2,6 +2,6 @@
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas na Estácio 
 - 🌱 Estudando HTML, CSS, JavaScript, PHP 
-- 📫 e-mail: caiojaqueri.contato@gmail.com / Linkedin: Caio Scarani Jaqueri 
+- 📫 e-mail: caiojaqueri.contato@gmail.com 
 - 😄 Pronomes: ele/dele
 
