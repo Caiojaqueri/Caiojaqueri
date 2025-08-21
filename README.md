@@ -21,9 +21,3 @@
   <i class="devicon-php-plain"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="70px" width="80px"/>
 </div>
-
-##
-
-
-
-
