@@ -1,8 +1,7 @@
 
-<p>📖 Cursando Análise e Desenvolvimento de Sistemas na Estácio</p>
-<p>🌱 Estudando HTML, CSS, JavaScript, PHP</p>
-<p>📫 E-mail: caiojaqueri.contato@gmail.com</p>
-<p>🔗 <a href="https://www.linkedin.com/in/caio-scarani-jaqueri-b12177347/">Linkedin</a>
+<p>📖 Cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
+<p>🌱 Estudando Desenvolvimento web, HTML, CSS, JavaScript e PHP.
+<p>🔗 Dê uma olhada no meu <a href="https://www.linkedin.com/in/caio-scarani-jaqueri-b12177347/">Linkedin</a>!
 
 <div>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
