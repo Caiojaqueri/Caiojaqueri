@@ -1,6 +1,6 @@
 
 <p>📖 Cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
-<p>🌱 Estudando Desenvolvimento web, HTML, CSS, JavaScript e PHP.
+<p>🌱 Estudando Desenvolvimento web como HTML, CSS, JavaScript e PHP.
 <p>🔗 Dê uma olhada no meu <a href="https://www.linkedin.com/in/caio-scarani-jaqueri-b12177347/">Linkedin</a>!
 
 <div>
