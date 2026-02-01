@@ -1,6 +1,6 @@
 
 <p>📖 Cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
-<p>🌱 Estudando Desenvolvimento web como HTML, CSS, JavaScript e PHP.
+<p>🌱 Estudando Desenvolvimento de Software, focando em Frontend e Backend!
 <p>🔗 Dê uma olhada no meu <a href="https://www.linkedin.com/in/caio-scarani-jaqueri-b12177347/">Linkedin</a>!
 
 <div>
@@ -19,4 +19,8 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <i class="devicon-php-plain"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="70px" width="80px"/>
+  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <i class="devicon-python-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70px" width="80px"/>
 </div>
